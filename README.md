@@ -13,3 +13,4 @@ The sole purpose of the system is to organize the patient data and make the appo
 ##DRAWBACKS :
 -The main drawbacks of this existing system is, It can only be accessed by  admin and the receptionist.
 
+
